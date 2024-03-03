@@ -7,6 +7,7 @@
  </a>
 </div>
 <h3 align="center">Someone who works on cyber security and wants to pursue a career in this field.</h3>
+<img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/GitHub%20Mascot%20Pixel.gif" alt="Coding" width=200 height=200 align="right">
 
 - 📫 How to reach me **6yunustk1@gmail.com**
 
