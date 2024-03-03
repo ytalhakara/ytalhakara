@@ -1,6 +1,10 @@
 ![MasterHead](https://r.resimlink.com/4zdbhZ3YHQ.png)
 ![](https://komarev.com/ghpvc/?username=ytalhakara&color=blue)
-<h1 align="center">Hi 👋, I'm Yunus Talha Kara</h1>
+<div align="center">
+ <a href="https://github.com/ytalhakara">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Yunus+Talha+Kara+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 <h3 align="center">Someone who works on cyber security and wants to pursue a career in this field.</h3>
 
 - 📫 How to reach me **6yunustk1@gmail.com**
