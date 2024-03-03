@@ -1,4 +1,5 @@
 ![MasterHead](https://r.resimlink.com/4zdbhZ3YHQ.png)
+![](https://komarev.com/ghpvc/?username=ytalhakara&color=blue)
 <h1 align="center">Hi 👋, I'm Yunus Talha Kara</h1>
 <h3 align="center">Someone who works on cyber security and wants to pursue a career in this field.</h3>
 
