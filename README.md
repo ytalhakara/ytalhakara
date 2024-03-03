@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yunustk00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yunustk00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yunus talha kara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus talha kara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yunus-talha-kara-95b520261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus-talha-kara-95b520261" height="30" width="40" /></a>
 <a href="https://instagram.com/ytalhakara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ytalhakara" height="30" width="40" /></a>
 <a href="https://discord.gg/tk9596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tk9596" height="30" width="40" /></a>
 </p>
